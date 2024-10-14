@@ -46,3 +46,10 @@ The Inventory Management System is a C++ application designed to facilitate the 
 1. **Compiling the Code:** Use a C++ compiler (e.g., g++) to compile the code. Ensure that the necessary libraries are included.
    ```bash
    g++ -o inventory_management inventory_management.cpp
+## Usage
+
+### Running the Application
+To run the application, use the following command in your terminal:
+
+```bash
+./inventory_management
